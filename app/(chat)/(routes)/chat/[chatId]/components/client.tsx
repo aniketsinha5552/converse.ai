@@ -47,7 +47,7 @@ export const ChatClient = ({
   });
 
   const onSubmit = (e: FormEvent<HTMLFormElement>) => {
-    const userMessage: any = {
+    const userMessage: ChatMessageProps = {
       role: "user",
       content: input
     };
@@ -59,7 +59,7 @@ export const ChatClient = ({
 
   return (
     <div className="flex flex-col h-full p-4 space-y-2">
-       <ChatHeader companion={companion} />    
+      <ChatHeader companion={companion} />
       <ChatMessages 
         companion={companion}
         isLoading={isLoading}
@@ -70,8 +70,7 @@ export const ChatClient = ({
         input={input} 
         handleInputChange={handleInputChange} 
         onSubmit={onSubmit} 
-      /> 
+      />
     </div>
    );
 }
-
