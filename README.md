@@ -1,3 +1,14 @@
+# Converse.AI  
+## https://converse-ai-zeta.vercel.app/
+## Chat with different AI Models
+![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/c3dbb27d-fbe7-4576-95c1-bfeacf5cf234)
+![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/d0aa0852-7d74-41e2-bc1e-16358b10f77f)
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
