@@ -1,16 +1,20 @@
 # Converse.AI  
 ## https://converse-ai-zeta.vercel.app/
 ## Chat with different AI Models
-![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/c3dbb27d-fbe7-4576-95c1-bfeacf5cf234)
-![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/d0aa0852-7d74-41e2-bc1e-16358b10f77f)
 
-
-## Tech
+## 🚀Tech
 - NextJs, Tailwind CSS, PrismaDb, MySQL,
 - Pinecone, LangChain, OpenAI,
 - Clerk Auth, Srtipe, Shadcn UI
 
 
+![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/c3dbb27d-fbe7-4576-95c1-bfeacf5cf234)
+
+### Chat with different AI models
+![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/d0aa0852-7d74-41e2-bc1e-16358b10f77f)
+
+### Train your own AI models
+![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/51732393-ee48-4504-a5a0-1cfa3751e0ff)
 
 
 ## Getting Started
