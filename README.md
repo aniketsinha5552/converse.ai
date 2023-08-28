@@ -14,7 +14,8 @@
 ![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/d0aa0852-7d74-41e2-bc1e-16358b10f77f)
 
 ### Train your own AI models
-![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/51732393-ee48-4504-a5a0-1cfa3751e0ff)
+![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/f56c2ec5-8f6e-4537-a6ed-a161330bf7ed)
+
 
 
 ## Getting Started
