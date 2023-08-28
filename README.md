@@ -3,9 +3,9 @@
 ## Chat with different AI Models
 
 ## 🚀Tech
-- NextJs, Tailwind CSS, PrismaDb, MySQL,
+- NextJs, Typecript ,Tailwind CSS, PrismaDb, MySQL
 - Pinecone, LangChain, OpenAI,
-- Clerk Auth, Srtipe, Shadcn UI
+- Clerk Auth, Stripe Payment, Shadcn UI
 
 
 ![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/c3dbb27d-fbe7-4576-95c1-bfeacf5cf234)
