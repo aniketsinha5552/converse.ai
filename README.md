@@ -7,6 +7,8 @@
 - Pinecone, LangChain, OpenAI,
 - Clerk Auth, Stripe Payment, Shadcn UI
 
+## Demo
+https://github.com/aniketsinha5552/converse.ai/assets/104712880/63b0b161-fa88-4a0a-9194-9bbdf3b9e9eb
 
 ![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/c3dbb27d-fbe7-4576-95c1-bfeacf5cf234)
 
