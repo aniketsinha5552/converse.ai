@@ -1,4 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Converse.AI  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## https://converse-ai-zeta.vercel.app/
+## Chat with different AI Models
+
+## 🚀Tech
+- NextJs, Typecript ,Tailwind CSS, PrismaDb, MySQL
+- Pinecone, LangChain, OpenAI,
+- Clerk Auth, Stripe Payment, Shadcn UI
+
+## Demo
+https://github.com/aniketsinha5552/converse.ai/assets/104712880/63b0b161-fa88-4a0a-9194-9bbdf3b9e9eb
+
+![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/c3dbb27d-fbe7-4576-95c1-bfeacf5cf234)
+
+### Chat with different AI models
+![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/d0aa0852-7d74-41e2-bc1e-16358b10f77f)
+
+### Train your own AI models
+![image](https://github.com/aniketsinha5552/converse.ai/assets/104712880/f56c2ec5-8f6e-4537-a6ed-a161330bf7ed)
+
+
 
 ## Getting Started
 
