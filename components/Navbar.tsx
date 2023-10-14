@@ -39,7 +39,7 @@ export const Navbar = ({ isPro }: NavbarProps) => {
               font.className
             )}
           >
-            Converse.AI
+            converse.ai
           </h1>
           {isPro &&
           <Button  size="sm" variant="pro" className="ml-4">
