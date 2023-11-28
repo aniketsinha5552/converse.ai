@@ -36,9 +36,9 @@ const RootPage = async ({
 
   return (
     <div className="h-full p-4 space-y-2">
-      <h1 className="text-center text-2xl">Empower Your Imagination! Create, Chat, Conquer with AI Models.</h1>
+      <h1 className="text-center text-2xl">Empower Your Imagination!</h1>
       <SearchInput />
-      {/* <Categories data={categories} /> */}
+      <Categories data={categories} />
       <Companions data={data} />
     </div>
   )
